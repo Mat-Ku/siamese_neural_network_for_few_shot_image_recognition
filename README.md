@@ -11,6 +11,7 @@ Koch et al. (2015): https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
 Industrial Quality Control of Packages (Vorhemus, 2021): https://www.kaggle.com/datasets/christianvorhemus/industrial-quality-control-of-packages
 
 The data set contains 200 images of intact packages (per package, one image from the side and one from top) and 200 images of damaged packaged (same procedure).
+
 ![image](images/intact_side_view.png "Intact (side)")
 
 ## Results
