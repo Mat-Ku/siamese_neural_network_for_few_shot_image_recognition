@@ -12,7 +12,7 @@ Industrial Quality Control of Packages (Vorhemus, 2021): https://www.kaggle.com/
 
 The data set contains 200 images of intact packages (per package, one image from the side and one from top) and 200 images of damaged packaged (same procedure).
 
-![image](images/intact_side_view.png "Intact package (side)"), ![image](intact_top_view.png "Intact package (top)")
+![image](images/intact_side_view.png "Intact package (side)"), ![image](images/intact_top_view.png "Intact package (top)")
 
 ## Results
 
