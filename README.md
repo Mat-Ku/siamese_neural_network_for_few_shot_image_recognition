@@ -16,5 +16,6 @@ The data set contains 200 images of intact packages (per package, one image from
 ![image](images/damaged_side_view.png "Damaged package (side)"), ![image](images/damaged_top_view.png "Damaged package (top)")
 
 ## Results
+In progress...
 
 ## Copyright Notice
