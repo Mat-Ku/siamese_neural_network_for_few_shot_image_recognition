@@ -21,10 +21,10 @@ Koch et al. (2015): https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
 In progress...
 
 ## Dependencies
-keras==2.9.0
-numpy==1.21.6
-pip==20.0.2
-python==3.7.6
+keras==2.9.0<br>
+numpy==1.21.6<br>
+pip==20.0.2<br>
+python==3.7.6<br>
 tensorflow==2.9.1
 
 ## Copyright Notice
