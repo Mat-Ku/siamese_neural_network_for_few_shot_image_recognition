@@ -17,8 +17,8 @@ As it is common practice in few shot image recognition, the data set for trainin
 ## Model
 Koch et al. (2015): https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
 
-## Results
-In progress...
+## Limitations
+The originally intended model architecture derived from Koch et al. could not be trained as no dedicated GPU was available. Training the model in Google Colab, using a GPU with ~12 GB RAM, still resulted in an OOM error. Therefore, the model complexity needed to be reduced significantly as well as the size of the images, in order to make training feasible. This caused the the predictive accuracy of the trained model on the test data to be diminished. The file size of the trained Tensorflow model unfortunately exceeded the 100 MB upload cap imposed by GitHub, which is why it cannot be uploaded here. 
 
 ## Dependencies
 keras==2.9.0<br>
