@@ -7,7 +7,7 @@ import numpy as np
 def main():
 
     # Load data
-    data_path = 'C:/Users/PC/PycharmProjects/industrial_quality_control_of_packages_through_image_recognition/image_data'  # insert path to data set
+    data_path = '*'  # insert path to data set
     img_dict = get_file_names(data_path)
     imgs_anchor = img_dict['intact']['side']
     imgs_pos = img_dict['intact']['side']
@@ -40,7 +40,7 @@ def main():
     snn.train()
 
     # Save model
-    snn.save_model('trained_snn.h5')   # for '*', insert the path to saving location
+    #snn.save_model('trained_snn.h5')  
 
 
 if __name__ == '__main__':
