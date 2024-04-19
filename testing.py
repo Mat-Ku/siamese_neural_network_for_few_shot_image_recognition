@@ -13,7 +13,7 @@ def main():
 
     # Load data consisting of an anchor class, a positive class (both intact packages) and a
     # negative class (damaged packages)
-    data_path = 'C:/Users/PC/PycharmProjects/industrial_quality_control_of_packages_through_image_recognition/image_data'  # insert path to data set
+    data_path = '*'  # insert path to data set
     img_dict = get_file_names(data_path)
     imgs_anchor = img_dict['intact']['side']
     imgs_pos = img_dict['intact']['side']
